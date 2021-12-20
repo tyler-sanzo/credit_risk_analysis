@@ -4,6 +4,7 @@
 
 Using differeng supervised machine learning techniques, we were tasked with creating ML models to determine which credit applications are high-risk. 
 
+## Results of Analysis
 
 ### Naive Random Oversampling
 
